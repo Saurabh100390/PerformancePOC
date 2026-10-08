@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Performance POC",
+    "slug": "performance-poc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {"package": "com.performancepoc.mobile"}
+  }
+}
